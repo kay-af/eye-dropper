@@ -17,11 +17,11 @@ Point your camera towards a color and with a press of a button, get the names of
 
 ## Known bug(s)
 
-**YUV 420** to **RGB** conversion sometimes give incorrect color information. **Camera support** for flutter is limited and an unknown bug in it might be causing this problem. Switch camera or re-launch the app if you encounter this bug. The picked color might not be perfect at the moment and I will be working to fix it in future (Hoping to reimplement using some new camera API release for flutter).
+**YUV 420** to **RGB** conversion sometimes give incorrect color information from rear camera. **Camera support** for flutter is limited and an unknown bug in it might be causing this problem. Switch camera or re-launch the app if you encounter this bug. The picked color might not be perfect at the moment and I will be working to fix it in future (Hoping to reimplement using some new camera API release for flutter).
 
 ## Testing
 
-This app is currently tested on my **Vivo V5 Pro** android phone.
+This app is currently tested on my **Vivo Z1 Pro** android phone.
 
 ## Credits
 
