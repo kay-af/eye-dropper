@@ -21,7 +21,7 @@ Point your camera towards a color and with a press of a button, get the names of
 
 ## Testing
 
-This app is currently tested on my **Vivo V5 Pro**. This app is not supported for IOS builds yet because I have not implemented any conversion for IOS image though its a simple task compared to YUV on android.
+This app is currently tested on my **Vivo V5 Pro** android phone.
 
 ## Credits
 
