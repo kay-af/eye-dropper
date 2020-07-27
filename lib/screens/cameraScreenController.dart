@@ -37,7 +37,7 @@ class CameraScreenController {
 
   Future<void> _init() async {
     _cameraController = CameraController(
-        _availableCameras[_currentCamera], ResolutionPreset.ultraHigh);
+        _availableCameras[_currentCamera], ResolutionPreset.medium);
 
     await _cameraController.initialize();
     await _cameraController.startImageStream((cameraImage) {
